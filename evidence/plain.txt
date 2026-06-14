@@ -1,0 +1,7 @@
+├── README.md               <- Professional Project Narrative (Provided Below)
+├── report/
+│   └── Vulnerability_Assessment_Report.pdf  <- Your Exported Canva Deliverable
+└── evidence/
+    ├── sql_injection_proof.txt              <- Raw SQLmap Target Log Streams
+    ├── login_bypass_capture.png             <- Screenshot of ' or '1'='1 entry
+    └── exposed_creds_leak.png               <- Screenshot of credentials.txt page
