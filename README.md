@@ -6,7 +6,7 @@ This repository contains the professional engineering logs, assessment data mapp
 * **Audit Registry Reference:** Project 001
 * **Compliance Standards Alignment:** NIST SP 800-115 Information Security Assessment Framework
 * **Strategic Repository Link:** https://github.com/bondidhanush01-bit/-FUTURE_CS_01.git
-* **Canva Executive Document:** [/report/Vulnerability_Assessment_Report.pdf](./report/Vulnerability_Assessment_Report.pdf)
+* **Canva Executive Document:** https://www.canva.com/design/DAHMiFHbhsM?ui=eyJLIjp7IkEiOiIxNThlYjdlZS0zN2Y0LTQ1ZWEtYjBlNC1hM2NmMzQ5Nzk1MGEifX0
 
 ---
 
